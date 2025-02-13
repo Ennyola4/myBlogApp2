@@ -4,7 +4,7 @@ const SignIn = () => {
   return (
     <div>
       <h1>
-        Signin
+        Signin 
       </h1>
     </div>
   )

@@ -1,4 +1,4 @@
-const User = ( req,res) => {
+const User = ( req, res) => {
     res.json("user api is working")
 }
 

@@ -8,7 +8,7 @@ const User = require('../controller/user.controller')
 
 
 
-router.get('/',User)
+router.get('/', User)
 
 
 
